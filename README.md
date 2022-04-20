@@ -7,7 +7,7 @@ Salvee, Eu sou de Santa Maria/RS , Eu curso Informática no CTISM-UFSM.
 * Vejo filmes e series 🎬
 * Jogo Handball 🏅
 
-#### Da um follow pae!
+#### Da um follow pae pu favor!
 (Instagram📷) - https://www.instagram.com/miguel_paniz/
 
 
