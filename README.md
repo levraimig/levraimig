@@ -1,17 +1,29 @@
-### Salve, bem vindo ao meu perfil!
+# 🌟 Multi-Language Developer Portfolio
 
-Salvee, Eu sou de Santa Maria/RS , Eu curso Informática no CTISM-UFSM.
+👋 **Olá e bem-vindo ao meu portfólio!**  
+Este repositório é uma coleção das minhas principais criações em **C**, **Python**, **PHP** e **tecnologias Front-end**. Cada projeto é uma peça única de código, refletindo minha paixão por programação e resolução de problemas. Fique à vontade para explorar e, claro, sinta-se convidado a contribuir ou deixar suas sugestões!
 
-### Quais são meus hobbies? 🎨
-* Jogo no computador 💻
-* Vejo filmes e series 🎬
-* Jogo Handball 🏅
+## 🛠️ Tecnologias
 
-#### Da um follow pae pu favor!
-(Instagram📷) - https://www.instagram.com/miguel_paniz/
+Aqui estão as principais linguagens e ferramentas que você verá neste repositório:
 
+- **C**: Para projetos de baixo nível, sistemas embarcados e algoritmos de alta performance.
+- **Python**: Usado em automações, análise de dados e scripts de web scraping.
+- **HTML/CSS/JavaScript**: Aplicações e interfaces interativas, com um toque de design responsivo.
+- **PHP**: Para desenvolvimento de aplicações dinâmicas e back-ends robustos.
 
-(Twitter📱) - https://twitter.com/miguel_paniz
+## 📂 Estrutura dos Projetos
+
+```bash
+.
+├── C/
+│   └── Exemplo de projetos de sistemas
+├── Python/
+│   └── Scripts de automação e análise de dados
+├── Frontend/
+│   └── Projetos de design e interação
+├── PHP/
+│   └── Exemplos de back-end com PHP
 
 
 
