@@ -1,23 +1,53 @@
 # 🌟 Multi-Language Developer Portfolio
 
-👋 **Olá e bem-vindo ao meu portfólio!**  
-Este repositório é uma coleção das minhas principais criações em **C**, **Python**, **PHP** e **tecnologias Front-end**. Cada projeto é uma peça única de código, refletindo minha paixão por programação e resolução de problemas. Fique à vontade para explorar e, claro, sinta-se convidado a contribuir ou deixar suas sugestões!
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-C-blue.svg?style=for-the-badge" alt="C Badge"/>
+  <img src="https://img.shields.io/badge/Python-blue.svg?style=for-the-badge&logo=python&logoColor=yellow" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/HTML/CSS-orange.svg?style=for-the-badge&logo=html5" alt="HTML/CSS Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/PHP-purple.svg?style=for-the-badge&logo=php" alt="PHP Badge"/>
+</p>
 
-## 🛠️ Tecnologias
+👋 **Bem-vindo(a)!**  
+---
 
-Aqui estão as principais linguagens e ferramentas que você verá neste repositório:
+## 🌟 Tecnologias e Ferramentas
 
-- **C**: Para projetos de baixo nível, sistemas embarcados e algoritmos de alta performance.
-- **Python**: Usado em automações, análise de dados e scripts de web scraping.
-- **HTML/CSS/JavaScript**: Aplicações e interfaces interativas, com um toque de design responsivo.
-- **PHP**: Para desenvolvimento de aplicações dinâmicas e back-ends robustos.
+| Linguagem | Descrição |
+|-----------|-----------|
+| ![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white) | **C** para sistemas embarcados e soluções de alta performance |
+| ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white) | **Python** para automação e manipulação de dados |
+| ![HTML](https://img.shields.io/badge/HTML-F16428.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | **HTML/CSS/JS** para desenvolvimento Front-end |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | **PHP** para construção de back-ends dinâmicos |
 
-💬 Vamos Conversar!
-Se algum projeto chamou sua atenção, ou você tem ideias para colaborar, estou sempre aberto para conversar!
+---
 
-📧 Email: seu.email@exemplo.com
-🔗 LinkedIn: linkedin.com/in/seuperfil
-🐙 GitHub: github.com/seuperfil
+## 🎯 Meus Projetos
 
+### 🔧 C - Algoritmos de Alta Performance
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="100px" align="right"/>
 
+### 🐍 Python - Automação Inteligente
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100px" align="right"/>
+---
 
+### 🌐 Front-End - Design Responsivo e Interativo
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="100px" align="right"/>
+---
+
+### 🐘 PHP - Desenvolvimento Back-End
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="100px" align="right"/>
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Linguagens Mais Usadas"/>
+</p>
+
+---
+💬 Entre em Contato
+<p align="center"> <a href="mailto:migpaniz@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/> </a> <a href="https://www.linkedin.com/in/miguel-paniz-31736b2a3//"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> <a href="https://github.com/levraimig"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/> </a> </p>
+
+✨ Obrigado pela visita! Cada linha de código aqui foi escrita com dedicação e paixão. Sinta-se à vontade para explorar, contribuir ou apenas deixar um ⭐!
