@@ -1,4 +1,4 @@
-# 🌟 Multi-Language Developer Portfolio
+# 🌟 Portfolio
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-C-blue.svg?style=for-the-badge" alt="C Badge"/>
@@ -27,27 +27,28 @@
 ### 🔧 C - Algoritmos de Alta Performance
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="100px" align="right"/>
 
+
 ### 🐍 Python - Automação Inteligente
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100px" align="right"/>
----
+
 
 ### 🌐 Front-End - Design Responsivo e Interativo
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="100px" align="right"/>
----
+
 
 ### 🐘 PHP - Desenvolvimento Back-End
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="100px" align="right"/>
----
+
 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Linguagens Mais Usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=levraimig&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levraimig&layout=compact&theme=radical" alt="Linguagens Mais Usadas"/>
 </p>
 
 ---
 💬 Entre em Contato
 <p align="center"> <a href="mailto:migpaniz@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/> </a> <a href="https://www.linkedin.com/in/miguel-paniz-31736b2a3//"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> <a href="https://github.com/levraimig"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/> </a> </p>
 
-✨ Obrigado pela visita! Cada linha de código aqui foi escrita com dedicação e paixão. Sinta-se à vontade para explorar, contribuir ou apenas deixar um ⭐!
+✨ Obrigado pela visita! Sinta-se à vontade para explorar, contribuir ou apenas deixar um ⭐!
