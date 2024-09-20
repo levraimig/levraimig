@@ -12,18 +12,12 @@ Aqui estão as principais linguagens e ferramentas que você verá neste reposit
 - **HTML/CSS/JavaScript**: Aplicações e interfaces interativas, com um toque de design responsivo.
 - **PHP**: Para desenvolvimento de aplicações dinâmicas e back-ends robustos.
 
-## 📂 Estrutura dos Projetos
+💬 Vamos Conversar!
+Se algum projeto chamou sua atenção, ou você tem ideias para colaborar, estou sempre aberto para conversar!
 
-```bash
-.
-├── C/
-│   └── Exemplo de projetos de sistemas
-├── Python/
-│   └── Scripts de automação e análise de dados
-├── Frontend/
-│   └── Projetos de design e interação
-├── PHP/
-│   └── Exemplos de back-end com PHP
+📧 Email: seu.email@exemplo.com
+🔗 LinkedIn: linkedin.com/in/seuperfil
+🐙 GitHub: github.com/seuperfil
 
 
 
